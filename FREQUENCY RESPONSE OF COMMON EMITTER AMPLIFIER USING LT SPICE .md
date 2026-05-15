@@ -14,24 +14,21 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+
+<img width="932" height="1600" alt="592864368-8c8a6ac7-d653-4390-9872-5c9c7a184835" src="https://github.com/user-attachments/assets/f79f61b5-0df4-4c5d-a9dc-6bef63a95b8e" />
 
 
 ## MODEL GRAPH
 
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
+<img width="900" height="1600" alt="592864541-f01ab922-ce29-48e4-86ab-761d8c086139" src="https://github.com/user-attachments/assets/745fc499-2a4d-4b15-8b3d-ce1a81f3af77" />
 
-<img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
-
-## Tabulation
+## Procedure
+<img width="520" height="416" alt="509913667-c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" src="https://github.com/user-attachments/assets/84156c91-4838-4f7c-bfa8-b28122eeecc4" />
 
 ## Graph
 
+<img width="1600" height="310" alt="592864691-ee2571a6-f7d1-4f05-b23a-217000755b6d" src="https://github.com/user-attachments/assets/c9f4928d-2785-4b46-95ea-c23b53d236f6" />
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
-
-**BANDWIDTH =**
